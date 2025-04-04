@@ -1,1 +1,0 @@
-import{j as s,O as e}from"./index-DBEhgcSH.js";const t=function(){return s.jsxs("div",{className:"h-screen flex",children:[s.jsx("div",{className:"h-full bg-slate-200 w-[250px] p-3",children:s.jsx("p",{className:"",children:"Side Bar"})}),s.jsxs("div",{className:"h-full p-3",children:[s.jsx("h1",{children:"App Layout"}),s.jsx(e,{})]})]})};export{t as component};
