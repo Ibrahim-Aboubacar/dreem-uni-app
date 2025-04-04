@@ -1,1 +1,0 @@
-import{j as o}from"./index-CIPZfUhH.js";const e=function(){return o.jsx("div",{children:'Hello "/privacy-policy"!'})};export{e as component};
